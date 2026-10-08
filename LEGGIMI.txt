@@ -1,0 +1,16 @@
+TONY NEXUS MOBILE - VERSIONE IPHONE
+
+Questo pacchetto contiene una demo autonoma del centro di comando 3D per iPhone.
+Non è una app iOS installabile da App Store, non è collegata al TONY Windows e non include Gemini.
+
+COME APRIRLA SU IPHONE
+1. Scarica TONY_IPHONE.html (oppure lo ZIP e decomprimilo nell'app File).
+2. Dall'app File, tocca TONY_IPHONE.html; se compare solo l'anteprima, usa Condividi > Apri in Safari se disponibile.
+3. Se iOS non permette di aprire il file in Safari, carica l'HTML su un hosting HTTPS statico (es. GitHub Pages / Netlify) e apri il link da Safari.
+4. Puoi trascinare la rete, toccare i nodi e usare i comandi testuali.
+5. Microfono: Web Speech API è soggetta a disponibilità/permessi di Safari e potrebbe non funzionare con file locali. Per voce affidabile serve una versione ospitata HTTPS.
+
+COMANDI DEMO
+ciao / stato sistemi / che ore sono / che giorno è / cambia colore ambra / cambia colore blu / ruota / ricorda [testo] / cosa ricordi
+
+Privacy: le note sono salvate in localStorage del browser, non su server. Non inserire dati sensibili.
